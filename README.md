@@ -41,3 +41,10 @@ More about me
 | --------- | --------- |
 | HEader | Title |
 | I love soft serve with rainbow sprinkles| I dont like other kinds of ice cream |
+```
+{
+ "firstname": "John",
+ "lastname": "smith",
+"age": 25
+}
+```
