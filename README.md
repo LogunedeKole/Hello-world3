@@ -55,3 +55,4 @@ Here is a sentenc with a footnote. [^1]
 
 muggle
 :non magical person
+~~All things are messy before they are perfect. Nothing worthwhile is neat or tidy.~~
